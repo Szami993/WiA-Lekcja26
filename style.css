@@ -1,0 +1,9 @@
+#logo {
+    background: purple;
+    color: white;
+    font: 50px arial;
+    text-align: center;
+    text-shadow: orange 4px 4px 8px;
+    border: double orange;
+    letter-spacing: 20px;
+}
